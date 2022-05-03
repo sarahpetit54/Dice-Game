@@ -4,7 +4,8 @@ Rolling dice game for 2 players 👥
 <h1>Description</h1>
 
 Practice project for DOM manipulation and events fundamentals.
-Play here:
+Play here: https://lambent-nougat-6ad4e6.netlify.app/ 
+
 Main language used: JAVASCRIPT.
 
 <h1>Rule of the Game</h1>
